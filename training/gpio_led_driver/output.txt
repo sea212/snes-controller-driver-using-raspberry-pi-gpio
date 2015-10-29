@@ -1,0 +1,8 @@
+dmesg | tail
+
+[ 1654.079927] Initialising GPIO-Pins
+[ 1654.079927] Step1: Configure Functions
+[ 1654.079971] Step2: Set GPIO-Pin 8 to high
+[ 1654.079983] Step3: Evaluate. GPIO-Pin 8 is on: high
+[ 1657.375155] setting voltage on used pins to low and leaving
+[ 1657.375193] GPIO-Pin 8 is on: low
